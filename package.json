@@ -1,6 +1,7 @@
 {
   "name": "wrap-lines",
   "displayName": "wrap-lines",
+  "publisher": "guofei",
   "description": "",
   "version": "0.0.1",
   "engines": {
