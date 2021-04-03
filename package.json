@@ -24,6 +24,14 @@
         "command": "wrap-lines.wrapline",
         "title": "Wrap Line"
       }
+    ],
+    "keybindings": [
+      {
+        "command": "wrap-lines.wrapline",
+        "key": "ctrl+alt+l",
+        "mac": "cmd+alt+l",
+        "when": "editorTextFocus"
+      }
     ]
   },
   "scripts": {
